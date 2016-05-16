@@ -13,6 +13,7 @@ string_set::string_set() {
         hash_table[i]=NULL;
     }
     //initialize variables
+    printf("test");
     reset();
 }
 
